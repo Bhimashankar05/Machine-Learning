@@ -22,4 +22,4 @@ Data Preprocessing
 -Other Machine Learning Techniques    
 -Natural Language Processing (NLP)  
 -Artificial Neural Networks  
-Convolutional Neural Networks  
+-Convolutional Neural Networks  
